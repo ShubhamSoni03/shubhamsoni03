@@ -35,3 +35,6 @@ Features: Real-time metrics visualization and dynamic service navigation.
 Tech: MERN Stack (MongoDB, Express, React, Node.js) with Socket.io for live updates.
 
 Thank you for taking the time to visit my profile and explore my journey! Every project here represents a step forward in my commitment to building high-quality, impactful software. I appreciate your interest in my work and am always open to feedback and collaboration.
+
+
+      Code with purpose, design with class, and build with logic.
